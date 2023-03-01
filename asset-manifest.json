@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/raeecycle/static/css/main.3605cecf.css",
-    "main.js": "/raeecycle/static/js/main.59d491fe.js",
+    "main.js": "/raeecycle/static/js/main.6b06cb2a.js",
     "static/media/LOGO.png": "/raeecycle/static/media/LOGO.766f26219453a958637d.png",
     "index.html": "/raeecycle/index.html",
     "main.3605cecf.css.map": "/raeecycle/static/css/main.3605cecf.css.map",
-    "main.59d491fe.js.map": "/raeecycle/static/js/main.59d491fe.js.map"
+    "main.6b06cb2a.js.map": "/raeecycle/static/js/main.6b06cb2a.js.map"
   },
   "entrypoints": [
     "static/css/main.3605cecf.css",
-    "static/js/main.59d491fe.js"
+    "static/js/main.6b06cb2a.js"
   ]
 }
